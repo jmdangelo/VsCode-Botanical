@@ -12,6 +12,12 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "url": "https://github.com/jmdangelo/VsCode-Botanical"
+    },
+    "galleryBanner": {
+        "color": "#657557"
+    },
     "contributes": {
         "themes": [
             {
