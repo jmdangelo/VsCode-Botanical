@@ -1,0 +1,24 @@
+{
+    "name": "botanical",
+    "displayName": "Botanical",
+    "description": "Botanical VSCode Theme",
+    "version": "0.0.1",
+    "author": {
+        "name": "Joe D'Angelo"
+    },
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Botanical",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Botanical-color-theme.json"
+            }
+        ]
+    }
+}
